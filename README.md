@@ -4,7 +4,7 @@
 
 От идеи до готового видео за 2 минуты. Один промпт — 40-секундный вертикальный ролик с субтитрами, музыкой и кинематографичным визуалом.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Working-orange.svg)
 
@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 Быстрый старт
-```bash
+```
 ### 1. Установка
 
 
@@ -223,7 +223,7 @@ MIT License — используй как хочешь, включая комм�
 ---
 
 ## 👤 Автор
-
+arseniizh.work@yandex.ru
 Создано с ❤️ в рамках изучения multi-agent систем и AI-автоматизации контента.
 
 ---
