@@ -125,6 +125,7 @@ python examples/demo.py
 ---
 
 ## 📁 Структура проекта
+```
 youtube-shorts-factory/
 ├── src/
 │   ├── agents/
@@ -146,6 +147,7 @@ youtube-shorts-factory/
 ├── requirements.txt
 ├── .env.example
 └── README.md
+```
 
 ## Конфигурация
 
