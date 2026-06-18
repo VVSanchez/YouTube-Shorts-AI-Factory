@@ -65,7 +65,7 @@ python examples/demo.py
 
 `Orchestrator` управляет потоком данных между агентами, собирает результаты и сохраняет их в структурированном виде.
 
----
+--- 
 
 ## 📁 Структура проекта
 
@@ -231,5 +231,6 @@ MIT License — используй как хочешь, включая комм�
 
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — автономные AI-агенты
 - [LangChain](https://github.com/langchain-ai/langchain) — фреймворк для LLM-приложений
-- [MoviePy](https://github.com/Zulko/moviepy) — монтаж видео на Python#   Y o u T u b e - S h o r t s - A I - F a c t o r y  
+- [MoviePy](https://github.com/Zulko/moviepy) — монтаж видео на Python#   Y o u T u b e - S h o r t s - A I - F a c t o r y 
+ 
  
